@@ -2,7 +2,7 @@
 
 Project designed in "Altium Designer" software. Involve custom BLDC motor controller and encoder based on Hall sensors.
 
-## 1. Informations
+## 1. Information
 - The PMSM_Motor_Controller_v2_2023.pdf file contains the electrical schematics for BLDC controller,
 - The Hall_board.pdf file contains the electrical schematics for encoder,
 - The Altium_project directory contains the Altium designer project: electrical schematics, layout and more.
@@ -14,7 +14,7 @@ Project designed in "Altium Designer" software. Involve custom BLDC motor contro
 - Gate driver,
 - Encoder.
 
-## 3. Visualisation - BLDC controller
+## 3. Visualization - BLDC controller
 Front:
 
 ![front](https://github.com/TomaszBednorz/BLDC_Controller/assets/62250785/a031d0ed-354c-4428-ad7e-7224a0ec6cf0)
