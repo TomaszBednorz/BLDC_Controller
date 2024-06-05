@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=ECAT0_(IN).SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ECAT0_(IN).SchDoc|FileName=ECAT1_(OUT).SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ECAT0_(IN).SchDoc|FileName=Encoder.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ECAT0_(IN).SchDoc|FileName=IMU.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ECAT0_(IN).SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ECAT0_(IN).SchDoc|FileName=MOSFET.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ECAT0_(IN).SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=1
