@@ -25,6 +25,7 @@ Back:
 
 ## 4. Visualisation - Custom encoder
 Front:
+
 ![front2](https://github.com/TomaszBednorz/BLDC_Controller/assets/62250785/9344a9c9-645f-40f6-9c2b-46394c803208)
 
 Back:
