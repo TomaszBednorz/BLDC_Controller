@@ -1,6 +1,6 @@
 # Hardware - BLDC_Controller
 
-Project designed in "Altium Designer" software. Involve custom BLDC motor controller and encoder based on Hall sensors.
+Project designed in the Altium Designer. Involve custom BLDC motor controller and encoder based on Hall sensors.
 
 ## 1. Information
 - The PMSM_Motor_Controller_v2_2023.pdf file contains the electrical schematics for BLDC controller,
@@ -15,21 +15,22 @@ Project designed in "Altium Designer" software. Involve custom BLDC motor contro
 - Encoder.
 
 ## 3. Visualization - BLDC controller
-Front:
 
-![front](https://github.com/TomaszBednorz/BLDC_Controller/assets/62250785/a031d0ed-354c-4428-ad7e-7224a0ec6cf0)
+3D view from the Altium Designer.
 
-Back:
+<img src="https://github.com/user-attachments/assets/00122ce0-d170-4307-824a-bc6fa2f709fa" width="600"/>
 
-![back](https://github.com/TomaszBednorz/BLDC_Controller/assets/62250785/9382bc8d-ec1f-4eee-b13b-b8579ba001de)
+2D view from the Altium Designer.
+
+<img src="https://github.com/user-attachments/assets/9dda7fdf-2877-4c5f-8b01-42c4db343bcb" width="600"/>
 
 ## 4. Visualisation - Custom encoder
-Front:
 
-![front2](https://github.com/TomaszBednorz/BLDC_Controller/assets/62250785/9344a9c9-645f-40f6-9c2b-46394c803208)
+3D view from the Altium Designer.
 
-Back:
-
-![back2](https://github.com/TomaszBednorz/BLDC_Controller/assets/62250785/2ba0d09b-6daa-494e-88a6-afa741625d9e)
+<img src="https://github.com/user-attachments/assets/4272af5b-6162-4bde-ac87-a8654d1c30ac" width="600"/>
 
 
+2D view from the Altium Designer.
+
+<img src="https://github.com/user-attachments/assets/2e7230d4-ea94-4e3f-946f-d23370d3648e" width="600"/>
